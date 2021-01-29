@@ -1,12 +1,9 @@
-#Addition
 def add(x,y):
-            return x+y
-#Substraction
-def substract(x,y):
-if(x<y)return ERROR
-                 return x-y 
+    pass
+def subtract(x,y):
+    pass
 def multiply(x,y):
-                 pass
-#change here
+    pass
+    
 def divide(x,y):
-              pass
+    pass
